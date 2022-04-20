@@ -11,6 +11,6 @@ Run a web server on ESP8266 to configure settings.
 * bi-languages. config page has two languages: english, korean. you can edit korean to other language.
 * ESP32 related code has been deleted.
 
-## Feature to be upgraded
+## Next Feature 
 
-* Supports ESP32
+* Supports ESP32 boards.
